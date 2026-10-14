@@ -1,0 +1,6 @@
+{
+  "name": "Little Learners: What is This? Adjective Adventure",
+  "description": "An interactive English learning game for elementary students to master opposites, adjectives, and sentence patterns with cheerful music and speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
